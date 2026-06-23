@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://starnexstudio.com/sitemap.xml
+Sitemap: https://autoxheviti.com/sitemap.xml
